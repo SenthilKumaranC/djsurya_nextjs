@@ -15,7 +15,7 @@ const Bio = () => {
       In addition to their personal musical journey, DJ Suriya is an avid writer and contributor to various music blogs and publications. Through their eloquent and expressive prose, they not only review and critique new releases but also delve into the historical and cultural contexts that shape the music we enjoy today. Their articles are a captivating blend of personal anecdotes, insightful analysis, and heartfelt recommendations, making them a trusted voice in the music community.
       </p>
       <p>
-      Whether it's attending live performances, curating playlists for different moods, or engaging in thought-provoking discussions about the evolving music industry, DJ Suriya is always at the forefront of the musical conversation. Their infectious enthusiasm for music is not just a hobby; it's a way of life that continues to inspire others to explore the limitless world of sonic artistry.
+      Whether it&apos;s attending live performances, curating playlists for different moods, or engaging in thought-provoking discussions about the evolving music industry, DJ Suriya is always at the forefront of the musical conversation. Their infectious enthusiasm for music is not just a hobby; it&apos;s a way of life that continues to inspire others to explore the limitless world of sonic artistry.
       </p>
     </div>
   );
