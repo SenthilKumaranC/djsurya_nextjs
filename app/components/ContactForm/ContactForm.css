@@ -22,6 +22,7 @@
 
 .InputWrapper{
     width: 100%;
+    max-width: 400px;
     height: max-content;
     display: flex;
     flex-direction: column;
