@@ -5,7 +5,7 @@ const Bio = () => {
       <span className="BioHeader">Bio</span>
      
       <p>
-      Bio: Passionate about the harmonious world of melodies and rhythms, [Your
+      Passionate about the harmonious world of melodies and rhythms, [Your
       Name] is a dedicated music lover hailing from [City, Country]. With an ear
       finely tuned to the intricacies of sound, they find solace, inspiration,
       and joy in the diverse tapestry of musical genres.</p> 
