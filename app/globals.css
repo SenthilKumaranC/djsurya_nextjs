@@ -25,3 +25,8 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.mainImage{
+   object-fit: cover;
+   position: static !important;
+}
