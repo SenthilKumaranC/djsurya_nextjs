@@ -5,8 +5,7 @@ const Bio = () => {
       <span className="BioHeader">Bio</span>
      
       <p>
-      Passionate about the harmonious world of melodies and rhythms, [Your
-      Name] is a dedicated music lover hailing from [City, Country]. With an ear
+      Passionate about the harmonious world of melodies and rhythms, DJ Suriya is a dedicated music lover hailing from Nagercoil,Tamilnadu. With an ear
       finely tuned to the intricacies of sound, they find solace, inspiration,
       and joy in the diverse tapestry of musical genres.</p> 
       <p>
