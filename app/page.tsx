@@ -1,6 +1,7 @@
 import Image from 'next/image'
 import ContactForm from './components/ContactForm/ContactForm'
 import TopHeader from './components/TopHeader/TopHeader'
+import Bio from './components/Bio/Bio'
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
           priority
         />
         <ContactForm></ContactForm>
+        <Bio></Bio>
       </div>
 
    
